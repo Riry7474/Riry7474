@@ -1,4 +1,4 @@
--# Hi there, I'm [Tolotra] 👋
+-# Hi there, I'm Wella 👋
 
 Welcome to my GitHub profile! I'm a passionate web developer with expertise in building dynamic and responsive web applications. Here's a little bit about me and my skills:
 
